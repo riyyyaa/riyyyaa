@@ -3,8 +3,7 @@
 </p>
 
 - 👋 Hi, I’m @riyyyaa <br>
-- 👀 I’m interested in Software developments... <br>
-- 🌱 I’m currently learning Java Programming... <br>
+- 🌱 I’m a Java Developer... <br>
 - 📫 How to reach me check my LinkedIn profile: 
   <a href="https://www.linkedin.com/in/riya-kulkarni-b872b8249">Riya Kulkarni</a> <br>
 - ⚡ Fun fact: You will always enjoy working with me ... <br><br>
