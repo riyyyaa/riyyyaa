@@ -1,5 +1,6 @@
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%"/>
+</p>
 - 👋 Hi, I’m @riyyyaa
 - 👀 I’m interested in Software developments...
 - 🌱 I’m currently learning Java Programming...
