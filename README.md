@@ -3,7 +3,7 @@
 </p>
 
 - 👋 Hi, I’m @riyyyaa <br>
-- 🌱 I’m a Java Developer... <br>
+- 🌱 I’m an IT Engineer... <br>
 - 📫 How to reach me check my LinkedIn profile: 
   <a href="https://www.linkedin.com/in/riya-kulkarni-b872b8249">Riya Kulkarni</a> <br>
 - ⚡ Fun fact: You will always enjoy working with me ... <br><br>
